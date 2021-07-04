@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1rbwKHMBDv7AlMXK5pQhcBxto//qf9f5frd0RZlQKK6cbVqn3EMmMvy/c425DNq91rsgQTcZtc4xQmnLAxam4Q==",
+  "success": true,
+  "projectFilePath": "C:\\CalismaAlani\\CSharpProjeleri\\ECommerce\\src\\Services.FakeService\\Services.FakeService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
