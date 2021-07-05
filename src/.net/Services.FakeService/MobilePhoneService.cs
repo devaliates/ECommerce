@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace Services.FakeService
 {
-    public class LaptopService<T> : ILaptopService<T> where T : ILaptop
+    public class MobilePhoneService<T> : IMobilePhoneService<T> where T : IMobilePhone
     {
-        private ILaptopDataLayer<T> service;
+        private IMobilePhoneDataLayer<T> service;
 
-        public LaptopService(ILaptopDataLayer<T> service)
+        public MobilePhoneService(IMobilePhoneDataLayer<T> service)
         {
             this.service = service;
         }
